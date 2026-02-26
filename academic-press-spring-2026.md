@@ -16,7 +16,7 @@
   - Pub Date: Jun 2026
   - Price: $85.00
   - ![cover](covers/9780300253177.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300253177/russias-rogue-masters)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300253177/russias-rogue-masters/)
 
 Late imperial Russia’s criminal justice system examined through its most prominent public cases In this book, lawyer and historian Sergei Antonov examin...
 
@@ -28,7 +28,7 @@ Late imperial Russia’s criminal justice system examined through its most promi
   - Pub Date: Apr 21, 2026
   - Price: $22.00
   - ![cover](covers/9780300288711.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300288711/personhood)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300288711/personhood/)
 
 In Personhood, legal scholar and bioethicist examines how the concept of legal personhood has become the epicenter of America's most contentious reproductive battles. From fetal rights legislation to embryo custody disputes, the book traces how competing definitions of when life begins are reshaping law, medicine, and civil liberties. A timely and provocative analysis of the new fault lines in American reproductive politics.
 
@@ -40,7 +40,7 @@ In Personhood, legal scholar and bioethicist examines how the concept of legal p
   - Pub Date: Mar 2026
   - Price: $30.00
   - ![cover](covers/9780300269826.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300269826/unsettling-territory)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300269826/unsettling-territory/)
 
 A history of the Oneida Nation of Wisconsin, from Revolutionary War allies to modern resurgenceHow did the Oneida Nation of northeastern Wisconsin—stripped...
 
@@ -52,7 +52,7 @@ A history of the Oneida Nation of Wisconsin, from Revolutionary War allies to mo
   - Pub Date: Feb 2026
   - Price: $35.00
   - ![cover](covers/9780300279894.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300279894/the-diversity-principle)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300279894/the-diversity-principle/)
 
 The surprising two-hundred-year history of diversity in education, commerce, and science from the scholar the New Yorker dubbed America’s “diversity dete...
 
@@ -64,7 +64,7 @@ The surprising two-hundred-year history of diversity in education, commerce, and
   - Pub Date: Jan 2026
   - Price: $30.00
   - ![cover](covers/9780300270983.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300270983/campus-speech-and-academic-freedom)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300270983/campus-speech-and-academic-freedom/)
 
 Expert guidance for navigating the difficult new issues around free speech rights in higher education In their earlier book, Free Speech on Campus, Erwin ...
 
@@ -76,7 +76,7 @@ Expert guidance for navigating the difficult new issues around free speech right
   - Pub Date: Sep 2025
   - Price: $30.00
   - ![cover](covers/9780300282801.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300282801/the-law-of-capitalism-and-how-to-transform-it)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300282801/the-law-of-capitalism-and-how-to-transform-it/)
 
 A fascinating study of the legal underpinnings of capitalism, reasons why the system must be transformed, and actions we can take Even though capitalism h...
 
@@ -88,7 +88,7 @@ A fascinating study of the legal underpinnings of capitalism, reasons why the sy
   - Pub Date: Jul 2025
   - Price: $45.00
   - ![cover](covers/9780300279443.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300279443/marital-privilege)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300279443/marital-privilege/)
 
 How the privileged legal status of marriage survived decades of constitutional struggle and social change The United States is unusual among wealthy weste...
 
@@ -100,7 +100,7 @@ How the privileged legal status of marriage survived decades of constitutional s
   - Pub Date: Jun 2025
   - Price: $35.00
   - ![cover](covers/9780300251265.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300251265/everyone-breaks-these-laws)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300251265/everyone-breaks-these-laws/)
 
 Copyright’s profound impact on the online world as we know it This book is a captivating exploration of the profound impact of American copyright law on...
 
@@ -112,7 +112,7 @@ Copyright’s profound impact on the online world as we know it This book is a c
   - Pub Date: May 2025
   - Price: $22.00
   - ![cover](covers/9780300284874.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300284874/against-constitutional-originalism)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300284874/against-constitutional-originalism/)
 
 A detailed and compelling examination of how the legal theory of originalism ignores and distorts the very constitutional history from which it derives inter...
 
@@ -124,7 +124,7 @@ A detailed and compelling examination of how the legal theory of originalism ign
   - Pub Date: Feb 2025
   - Price: $35.00
   - ![cover](covers/9780300277012.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300277012/who-am-i-to-judge)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300277012/who-am-i-to-judge/)
 
 A leading legal scholar asks a fundamental question: Do we need a theory of constitutional interpretation? Do we need a theory of constitutional interpret...
 
@@ -136,7 +136,7 @@ A leading legal scholar asks a fundamental question: Do we need a theory of cons
   - Pub Date: Jun 2024
   - Price: $20.00
   - ![cover](covers/9780300276862.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300276862/roe)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300276862/roe/)
 
 The leading U.S. expert on abortion law charts the many meanings associated with Roe v. Wade during its fifty-year history “Ziegler sets a brisk pace bu...
 
@@ -148,7 +148,7 @@ The leading U.S. expert on abortion law charts the many meanings associated with
   - Pub Date: Feb 2024
   - Price: $35.00
   - ![cover](covers/9780300272222.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300272222/memory-and-authority)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300272222/memory-and-authority/)
 
 From one of the nation’s preeminent constitutional scholars, a sweeping rethinking of the uses of history in constitutional interpretation Fights over h...
 
@@ -160,7 +160,7 @@ From one of the nation’s preeminent constitutional scholars, a sweeping rethin
   - Pub Date: Feb 2024
   - Price: $26.00
   - ![cover](covers/9780300270792.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300270792/how-to-steal-a-presidential-election)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300270792/how-to-steal-a-presidential-election/)
 
 From two distinguished experts on election law, an alarming look at how the American presidency could be stolen—by entirely legal means “Their new book...
 
@@ -172,7 +172,7 @@ From two distinguished experts on election law, an alarming look at how the Amer
   - Pub Date: Oct 2026
   - Price: $30.00
   - ![cover](covers/9780300257243.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300257243/tinderbox)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300257243/tinderbox/)
 
 An eloquent portrait of contemporary India that reveals how the Hindu nationalist movement threatens the country’s political and economic futureThis fascin...
 
@@ -184,7 +184,7 @@ An eloquent portrait of contemporary India that reveals how the Hindu nationalis
   - Pub Date: Oct 2026
   - Price: $32.50
   - ![cover](covers/9780300278163.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300278163/bringing-order-to-anarchy)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300278163/bringing-order-to-anarchy/)
 
 With the United States and the world it leads in disarray, how should we construct a new international order?The stable and open international order erected ...
 
@@ -196,7 +196,7 @@ With the United States and the world it leads in disarray, how should we constru
   - Pub Date: Oct 2026
   - Price: $38.00
   - ![cover](covers/9780300279641.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300279641/oil-wars)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300279641/oil-wars/)
 
 A vital history of oil and politics, showing how the struggle to control energy corridors and chokepoints shaped the modern worldFor the last twenty years, P...
 
@@ -208,7 +208,7 @@ A vital history of oil and politics, showing how the struggle to control energy 
   - Pub Date: Oct 2026
   - Price: $20.00
   - ![cover](covers/9780300303766.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300303766/equality-is-a-struggle)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300303766/equality-is-a-struggle/)
 
 An acclaimed economist’s observations on four years of events that have shaped the world In this new volume drawn from his columns for the French newspa...
 
@@ -220,7 +220,7 @@ An acclaimed economist’s observations on four years of events that have shaped
   - Pub Date: Oct 2026
   - Price: $28.00
   - ![cover](covers/9780300272550.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300272550/why-labor-unions-matter)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300272550/why-labor-unions-matter/)
 
 A lively and informed argument that highlights the continuing importance of unions in both shaping the economy and inspiring social and political activismFro...
 
@@ -232,7 +232,7 @@ A lively and informed argument that highlights the continuing importance of unio
   - Pub Date: Sep 2026
   - Price: $22.00
   - ![cover](covers/9780300286892.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300286892/saudi-arabia)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300286892/saudi-arabia/)
 
 A major new history of Saudi Arabia, from its eighteenth-century origins to the present day Saudi Arabia is one of the wealthiest countries in the world, ...
 
@@ -244,7 +244,7 @@ A major new history of Saudi Arabia, from its eighteenth-century origins to the 
   - Pub Date: Sep 2026
   - Price: $28.00
   - ![cover](covers/9780300267341.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300267341/the-hard-path-to-unity)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300267341/the-hard-path-to-unity/)
 
 A bold assessment of America’s populist turn—and a roadmap for rebuilding faith in liberal democracyFormer Congressman Barney Frank offers a timely analy...
 
@@ -256,7 +256,7 @@ A bold assessment of America’s populist turn—and a roadmap for rebuilding fa
   - Pub Date: Sep 2026
   - Price: $20.00
   - ![cover](covers/9780300303742.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300303742/anger-fear-domination)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300303742/anger-fear-domination/)
 
 A renowned political theorist offers a road map to the dark forces that threaten democracy “Politics is different now because something awful has been un...
 
@@ -268,7 +268,7 @@ A renowned political theorist offers a road map to the dark forces that threaten
   - Pub Date: Sep 2026
   - Price: $22.00
   - ![cover](covers/9780300303780.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300303780/taking-america-back)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300303780/taking-america-back/)
 
 A provocative look at the relationship between the far right and the American conservative movement from the 1930s to the end of the Cold War Since 2016, ...
 
@@ -280,7 +280,7 @@ A provocative look at the relationship between the far right and the American co
   - Pub Date: Jun 2026
   - Price: $32.50
   - ![cover](covers/9780300279993.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300279993/reboot)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300279993/reboot/)
 
 A blueprint for rescuing our fragile democracy by harnessing AIDemocracy is in retreat at home and abroad. Our institutions and our politics are more broken ...
 
@@ -292,7 +292,7 @@ A blueprint for rescuing our fragile democracy by harnessing AIDemocracy is in r
   - Pub Date: Aug 2026
   - Price: $32.50
   - ![cover](covers/9780300281743.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300281743/on-statesmanship)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300281743/on-statesmanship/)
 
 What true statecraft consists of, and how to know a statesman when we see one In the modern world we yearn for great leaders but resist them when they com...
 
@@ -304,7 +304,7 @@ What true statecraft consists of, and how to know a statesman when we see one In
   - Pub Date: Aug 2026
   - Price: $35.00
   - ![cover](covers/9780300283914.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300283914/the-resilient-society)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300283914/the-resilient-society/)
 
 An acclaimed economist’s fully revised and expanded guide to how resilient thinking helps us thrive in a world filled with unknown risks Risks are ubiqu...
 
@@ -316,7 +316,7 @@ An acclaimed economist’s fully revised and expanded guide to how resilient thi
   - Pub Date: Jul 2026
   - Price: $37.50
   - ![cover](covers/9780300276138.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300276138/schism)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300276138/schism/)
 
 A sophisticated new account of sectarianism in the Middle East Sectarianism saturates our conversations about the Middle East, its politics and society, a...
 
@@ -328,7 +328,7 @@ A sophisticated new account of sectarianism in the Middle East Sectarianism satu
   - Pub Date: Mar 24, 2026
   - Price: $30.00
   - ![cover](covers/9780300263480.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300263480/whiplash)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300263480/whiplash/)
 
 Based on extensive inside sources, a revealing account of how the Obama, Trump, and Biden administrations transformed both health care and politics in Americ...
 
@@ -340,7 +340,7 @@ Based on extensive inside sources, a revealing account of how the Obama, Trump, 
   - Pub Date: Aug 2026
   - Price: $45.00
   - ![cover](covers/9780300272444.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300272444/causal-inference)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300272444/causal-inference/)
 
 An expanded, fully revised edition of a leading econometrics text, offering deeper coverage, new methods, and accessible guidance on the core tools of causal...
 
@@ -352,7 +352,7 @@ An expanded, fully revised edition of a leading econometrics text, offering deep
   - Pub Date: Oct 2026
   - Price: $22.00
   - ![cover](covers/9780300303728.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300303728/captive-gods)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300303728/captive-gods/)
 
 Philosopher Kwame Anthony Appiah explores how early social scientists developed our modern understandings of society through their theories of religion Th...
 
@@ -364,7 +364,7 @@ Philosopher Kwame Anthony Appiah explores how early social scientists developed 
   - Pub Date: Sep 2026
   - Price: $32.00
   - ![cover](covers/9780300283013.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300283013/the-death-of-the-clinic)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300283013/the-death-of-the-clinic/)
 
 A vividly written and deeply researched history of radical experiments in modern health care and the politics of caring for one anotherThe Death of the Clini...
 
@@ -376,7 +376,7 @@ A vividly written and deeply researched history of radical experiments in modern
   - Pub Date: Sep 2026
   - Price: $35.00
   - ![cover](covers/9780300289206.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300289206/the-revolutionary-origins-of-language)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300289206/the-revolutionary-origins-of-language/)
 
 The story of the social and sexual revolution responsible for the emergence of our most prized skill—the ability to speakSpeech is unprecedented in the na...
 
@@ -388,7 +388,7 @@ The story of the social and sexual revolution responsible for the emergence of o
   - Pub Date: Aug 2026
   - Price: $20.00
   - ![cover](covers/9780300292299.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300292299/the-plunder-of-black-america)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300292299/the-plunder-of-black-america/)
 
 The long history of the racial wealth gap in America told through the stories of seven Black families who struggled to build wealth over multiple generations...
 
@@ -400,7 +400,7 @@ The long history of the racial wealth gap in America told through the stories of
   - Pub Date: Sep 2026
   - Price: $28.00
   - ![cover](covers/9780300293029.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300293029/a-death-of-ones-own)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300293029/a-death-of-ones-own/)
 
 An engaging, insightful meditation on death, from one of our leading mindsDeath is ever-present in literature. From Shakespearean tragedies to elegiac poetry...
 
@@ -412,7 +412,7 @@ An engaging, insightful meditation on death, from one of our leading mindsDeath 
   - Pub Date: Sep 2026
   - Price: $28.00
   - ![cover](covers/9780300264159.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300264159/soul)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300264159/soul/)
 
 A passionate and illuminating account of soul, the hard-won wisdom shepherded by Black people throughout generationsHow did enslaved Africans turn America’...
 
@@ -424,7 +424,7 @@ A passionate and illuminating account of soul, the hard-won wisdom shepherded by
   - Pub Date: Sep 2026
   - Price: $40.00
   - ![cover](covers/9780300284843.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300284843/the-central-fire-of-the-iroquois)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300284843/the-central-fire-of-the-iroquois/)
 
 A comprehensive history of the Native American community at the heart of the HaudenosauneeThe people of the Onondaga Nation have lived in central New York St...
 
@@ -436,7 +436,7 @@ A comprehensive history of the Native American community at the heart of the Hau
   - Pub Date: Oct 2026
   - Price: $30.00
   - ![cover](covers/9780300278880.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300278880/wireheads)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300278880/wireheads/)
 
 The story of the mavericks and scientists, crackpots and artistic visionaries who imagined a future where machines fuse with our mindsAs humanity and technol...
 
@@ -448,7 +448,7 @@ The story of the mavericks and scientists, crackpots and artistic visionaries wh
   - Pub Date: Sep 2026
   - Price: $30.00
   - ![cover](covers/9780300286793.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300286793/drugs)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300286793/drugs/)
 
 A fascinating guide to the history of drugs and medicines, the science of how they work, and the way they’ve shaped healthcare and societyToday, drugs are ...
 
@@ -460,7 +460,7 @@ A fascinating guide to the history of drugs and medicines, the science of how th
   - Pub Date: Jun 2026
   - Price: $38.00
   - ![cover](covers/9780300272635.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300272635/albert-sabin)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300272635/albert-sabin/)
 
 The untold story of Albert Sabin, who developed the oral polio vaccine and became a controversial public health advocate for children worldwideJonas Salk may...
 
@@ -472,7 +472,7 @@ The untold story of Albert Sabin, who developed the oral polio vaccine and becam
   - Pub Date: Sep 2025
   - Price: $25.00
   - ![cover](covers/9780300247145.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300247145/dr-bot)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300247145/dr-bot/)
 
 How does AI compare to a doctor when it comes to saving lives? Doctors are under-resourced and face unprecedented levels of stress, with rising patient num...
 
@@ -484,7 +484,7 @@ How does AI compare to a doctor when it comes to saving lives? Doctors are under
   - Pub Date: Jun 2025
   - Price: $38.00
   - ![cover](covers/9780300276039.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300276039/the-mask)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300276039/the-mask/)
 
 A history of masks protecting against bad air—in cities, factories, hospitals, and war trenches—exploring how our identities and beliefs shape the decisi...
 
@@ -496,7 +496,7 @@ A history of masks protecting against bad air—in cities, factories, hospitals,
   - Pub Date: Feb 2026
   - Price: $24.00
   - ![cover](covers/9780300286885.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300286885/what-the-body-knows)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300286885/what-the-body-knows/)
 
 A leading scientist’s guide to the way our immune system protects us—but only most of the time What is our immune system, and how does it work? A vast...
 
@@ -508,7 +508,7 @@ A leading scientist’s guide to the way our immune system protects us—but onl
   - Pub Date: Sep 2023
   - Price: $26.00
   - ![cover](covers/9780300274226.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300274226/diabetes)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300274226/diabetes/)
 
 Who gets diabetes and why? An in‑depth examination of diabetes in the context of race, public health, class, and heredity “[An] unsettling but insightful...
 
@@ -520,7 +520,7 @@ Who gets diabetes and why? An in‑depth examination of diabetes in the context 
   - Pub Date: Aug 2023
   - Price: $20.00
   - ![cover](covers/9780300274059.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300274059/life-time)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300274059/life-time/)
 
 A guide to using the science of the body clock to promote better sleep, better health, and better thinking “Full of surprising and useful facts. . . . U...
 
@@ -532,7 +532,7 @@ A guide to using the science of the body clock to promote better sleep, better h
   - Pub Date: Oct 2026
   - Price: $35.00
   - ![cover](covers/9780300303797.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300303797/42-tales-from-life/)
 
 In forty-two vivid tales, this modern bestiary reimagines the ancient tradition of drawing moral and philosophical insight from the animal kingdom. Blending natural history, fable, and personal reflection, the author explores what creatures—from octopuses to ravens—reveal about human nature, mortality, and our place in the living world. A literary and scientific meditation on the lessons animals still have to teach us.
 
@@ -544,7 +544,7 @@ In forty-two vivid tales, this modern bestiary reimagines the ancient tradition 
   - Pub Date: Oct 2026
   - Price: $35.00
   - ![cover](covers/9780300282597.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300282597/sniff)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300282597/sniff/)
 
 A remarkable account of the weird and wonderful history of smell Across vast periods of time and around the globe, smell has been central to human life. Fro...
 
@@ -556,7 +556,7 @@ A remarkable account of the weird and wonderful history of smell Across vast per
   - Pub Date: Sep 2026
   - Price: $35.00
   - ![cover](covers/9780300287202.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300287202/darwin-and-the-queer-origins-of-life)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300287202/darwin-and-the-queer-origins-of-life/)
 
 A revelatory history of sex, gender, and science from Linnaeus to DarwinWhat did Darwin and Linnaeus really think about sex? In print, their descriptions of ...
 
@@ -568,7 +568,7 @@ A revelatory history of sex, gender, and science from Linnaeus to DarwinWhat did
   - Pub Date: Oct 2026
   - Price: $30.00
   - ![cover](covers/9780300267587.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300267587/land)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300267587/land/)
 
 A sweeping meditation on the historical relationship between humans and land that challenges us to rethink common beliefsLand is the natural environment that...
 
@@ -580,7 +580,7 @@ A sweeping meditation on the historical relationship between humans and land tha
   - Pub Date: Oct 2026
   - Price: $30.00
   - ![cover](covers/9780300283457.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300283457/reindeer)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300283457/reindeer/)
 
 A global history of human relationships with reindeer, and how wildlife relocation can preserve both reindeer populations and cultural heritageAcross the Arc...
 
@@ -592,7 +592,7 @@ A global history of human relationships with reindeer, and how wildlife relocati
   - Pub Date: May 2026
   - Price: $20.00
   - ![cover](covers/9780300292305.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300292305/in-praise-of-floods)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300292305/in-praise-of-floods/)
 
 James C. Scott reframes rivers as alive and dynamic, revealing the consequences of treating them as resources for our profit A New Yorker Best Book of the Y...
 
@@ -604,7 +604,7 @@ James C. Scott reframes rivers as alive and dynamic, revealing the consequences 
   - Pub Date: Dec 2025
   - Price: $28.00
   - ![cover](covers/9780300246148.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300246148/a-little-history-of-the-earth)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300246148/a-little-history-of-the-earth/)
 
 A lively account of the history of our planet, from its earliest origins to the present day, told through the major geological changes and scientific breakth...
 
@@ -616,7 +616,7 @@ A lively account of the history of our planet, from its earliest origins to the 
   - Pub Date: Jun 2026
   - Price: $38.00
   - ![cover](covers/9780300282245.jpg)
-  - [Publisher page](https://yalebooks.yale.edu/book/9780300282245/farmers-and-climate-change)
+  - [Publisher page](https://yalebooks.yale.edu/book/9780300282245/farmers-and-climate-change/)
 
 A nuanced and empathetic account of the social risks faced by farmers navigating the effects of climate change in an era of political tensionsFarmers and ran...
 
@@ -628,7 +628,7 @@ A nuanced and empathetic account of the social risks faced by farmers navigating
   - Pub Date: Mar 2026
   - Price: $2.99
   - ![cover](covers/9780691252032.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691252032)
+  - [Publisher page](https://press.princeton.edu/books/paperback/9780691252032/how-to-interpret-the-constitution)
 
 From New York Times bestselling author Cass Sunstein, a timely and powerful argument for rethinking how the U.S. Constitution is interpreted
 
@@ -868,7 +868,7 @@ How to understand a long-standing puzzle in political philosophy: the relationsh
   - Pub Date: Jun 2026
   - Price: $2.99
   - ![cover](covers/9780691277196.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691277196)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691277196/why-china-needs-democracy)
 
 A realist defense of constitutional democracy in China that challenges the assumptions of the so-called China Model
 
@@ -880,7 +880,7 @@ A realist defense of constitutional democracy in China that challenges the assum
   - Pub Date: Apr 2026
   - Price: $2.99
   - ![cover](covers/9780691279800.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691279800)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691279800/why-ancient-chinese-political-thought-matters)
 
 An entertaining introduction to ancient Chinese thinkers—and what they can teach us about today’s most pressing political questions in China and beyond
 
@@ -904,7 +904,7 @@ The Environmental Republic argues that democratic citizen engagement, rather tha
   - Pub Date: Jun 2026
   - Price: $2.99
   - ![cover](covers/9780691177069.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691177069)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691177069/the-hidden-history-of-conspiracy-theory)
 
 Tracing the genealogy of conspiracy theory, from Machiavelli through the “paranoid style” to QAnon
 
@@ -1216,7 +1216,7 @@ A new theory of prejudice reduction, supported by rigorous evidence, arguing tha
   - Pub Date: Mar 2026
   - Price: $2.99
   - ![cover](covers/9780691250878.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691250878)
+  - [Publisher page](https://press.princeton.edu/books/paperback/9780691250878/faith-communities-and-the-fight-for-racial-justice)
 
 The communities, congregations, and faith-based coalitions that have been working for racial justice over the past fifty years
 
@@ -1264,7 +1264,7 @@ A transformative way of understanding addiction—and an invitation to find conn
   - Pub Date: Feb 2026
   - Price: $2.99
   - ![cover](covers/9780691273143.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691273143)
+  - [Publisher page](https://press.princeton.edu/books/paperback/9780691273143/island-in-the-net)
 
 An exploration of Cuba’s emerging digital culture and Cubans’ creation of grassroots networks, digital black markets, and online spaces for public debate
 
@@ -1444,7 +1444,7 @@ Strange Glow traces the remarkable history of radiation from its discovery to it
   - Pub Date: Mar 2026
   - Price: $2.99
   - ![cover](covers/9780691284002.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691284002)
+  - [Publisher page](https://press.princeton.edu/books/paperback/9780691284002/what-is-dark-matter)
 
 What we know about dark matter and what we have yet to discover
 
@@ -1970,7 +1970,7 @@ The Great Global Transformation examines how the rivalry between the United Stat
   - ISBN: TBD
   - Pub Date: TBD
   - Price: N/A
-  - [Publisher page](TBD)
+  - [Publisher page](https://yalebooks.yale.edu/search-results/?query=Fascism)
 
 Description pending verification from publisher page.
 
