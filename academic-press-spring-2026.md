@@ -652,7 +652,7 @@ A provocative new history of America’s constitution and an urgent call to acti
   - Pub Date: May 2026
   - Price: $2.99
   - ![cover](covers/9780691276151.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691276151)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691276151/unlocking-justice)
 
 Unlocking Justice demonstrates how data science and quantitative analysis can expose deep-seated inequities in the criminal justice system and drive meaningful reform. Drawing on case studies from bail decisions to sentencing disparities, the book shows how evidence-based approaches are empowering advocates, policymakers, and communities to challenge systemic bias. A compelling argument for harnessing the power of data to build a more just society.
 
@@ -688,7 +688,7 @@ A sweeping history of the struggle to hold states to account for their gravest c
   - Pub Date: Jun 2026
   - Price: $42.00
   - ![cover](covers/9780691274843.jpg)
-  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691274843/the-peoples-justice)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691274843/the-people-s-justice)
 
 A major new interpretation of the French Revolution that brings to life the criminal tribunals at the heart of the Republic’s political culture
 
@@ -712,7 +712,7 @@ The responsibilities of speakers and platforms in a world where content can go v
   - Pub Date: May 2026
   - Price: $21.95
   - ![cover](covers/9780691257730.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691257730/a-real-right-to-vote)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691257730/a-real-right-to-vote)
 
 Why it’s time to enshrine the right to vote in the Constitution
 
@@ -736,7 +736,7 @@ A 2,500-year history of international currencies that reveals new insights about
   - Pub Date: Mar 2026
   - Price: $21.95
   - ![cover](covers/9780691250533.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691250533/ungoverning)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691250533/ungoverning)
 
 How a deliberate dismantling of political institutions undermines the essential work of government
 
@@ -748,7 +748,7 @@ How a deliberate dismantling of political institutions undermines the essential 
   - Pub Date: Feb 2026
   - Price: $21.95
   - ![cover](covers/9780691248813.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691248813/making-democracy-count)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691248813/making-democracy-count)
 
 How we can repair our democracy by rebuilding the mechanisms that power it
 
@@ -760,7 +760,7 @@ How we can repair our democracy by rebuilding the mechanisms that power it
   - Pub Date: Apr 2026
   - Price: $29.95
   - ![cover](covers/9780691274799.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691274799/the-presidency-of-joseph-r-biden)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691274799/the-presidency-of-joseph-r-biden)
 
 Leading historians offer the first look at Biden’s four years in the White House
 
@@ -784,7 +784,7 @@ What caused the world’s great republics to fall—and what their fate reveals 
   - Pub Date: Apr 2026
   - Price: $19.95
   - ![cover](covers/9780691267142.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691267142/in-covids-wake)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691267142/in-covid-s-wake)
 
 One of The Wall Street Journal’s 10 Best Books of the YearFeatured on the New York Times&#039; The Daily podcast and CNN&#039;s Fareed Zakaria GPSWhat our failures during the pandemic cost us, and why we must do better
 
@@ -796,7 +796,7 @@ One of The Wall Street Journal’s 10 Best Books of the YearFeatured on the New 
   - Pub Date: Mar 2026
   - Price: $21.95
   - ![cover](covers/9780691231471.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691231471/charm)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691231471/charm)
 
 The utilization—and weaponization—of charm in contemporary global politics
 
@@ -808,7 +808,7 @@ The utilization—and weaponization—of charm in contemporary global politics
   - Pub Date: Apr 2026
   - Price: $29.95
   - ![cover](covers/9780691276861.jpg)
-  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691276861/every-mans-home-a-castle)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691276861/every-man-s-home-a-castle)
 
 The emergence of parental rights as a conservative movement spurred by the presumed right of white men to govern their homes
 
@@ -820,7 +820,7 @@ The emergence of parental rights as a conservative movement spurred by the presu
   - Pub Date: Mar 2026
   - Price: $27.95
   - ![cover](covers/9780691262475.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691262475/insecurity-politics)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691262475/insecurity-politics)
 
 The everyday realities of financial and work insecurity that drive right- and left-wing populism
 
@@ -832,7 +832,7 @@ The everyday realities of financial and work insecurity that drive right- and le
   - Pub Date: Jun 2026
   - Price: $2.99
   - ![cover](covers/9780691280202.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691280202)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691280202/who-is-american)
 
 Who Is American? explores the fraught history of Jewish citizenship in the United States, examining how Jewish Americans have navigated questions of belonging, identity, and national inclusion from the colonial era to the present. The book reveals how debates over Jewish civic status have illuminated broader tensions in American democracy about who truly counts as a citizen. A nuanced contribution to the histories of immigration, race, and religious pluralism in America.
 
@@ -892,7 +892,7 @@ An entertaining introduction to ancient Chinese thinkers—and what they can tea
   - Pub Date: May 2026
   - Price: $2.99
   - ![cover](covers/9780691262000.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691262000)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691262000/the-environmental-republic)
 
 The Environmental Republic argues that democratic citizen engagement, rather than top-down regulation alone, holds the key to addressing the global environmental crisis. Drawing on political theory, case studies, and grassroots movements worldwide, the book makes the case that informed and empowered citizens are the most effective agents of ecological change. A bold vision for reimagining environmental governance through civic participation.
 
@@ -916,7 +916,7 @@ Tracing the genealogy of conspiracy theory, from Machiavelli through the “para
   - Pub Date: Apr 2026
   - Price: $24.95
   - ![cover](covers/9780691255521.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691255521/the-greatest-of-all-plagues)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691255521/the-greatest-of-all-plagues)
 
 How the great political thinkers have persistently warned against the dangers of economic inequality
 
@@ -928,7 +928,7 @@ How the great political thinkers have persistently warned against the dangers of
   - Pub Date: Mar 2026
   - Price: $2.99
   - ![cover](covers/9780691263649.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691263649)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691263649/breaking-the-mold)
 
 Breaking the Mold challenges conventional wisdom about India's economic development, arguing that the country must chart an unconventional path to sustained prosperity. The book examines why standard models of industrialization and growth have failed to deliver broad-based progress in the Indian context and proposes bold alternatives rooted in India's unique strengths. An essential guide to understanding the political economy of one of the world's fastest-changing nations.
 
@@ -964,7 +964,7 @@ Tracing the origins of Britain’s current malaise to the abandonment of social 
   - Pub Date: Apr 2026
   - Price: $2.99
   - ![cover](covers/9780691283555.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691283555)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691283555/challenging-inequalities)
 
 Challenging Inequalities offers a sweeping analysis of how economic and social disparities have deepened across the globe and why progress toward equality has stalled. The book identifies the structural forces, policy failures, and political dynamics that have entrenched inequality, while charting pragmatic pathways for reversing these trends. A rigorous and accessible synthesis for anyone seeking to understand—and dismantle—the mechanisms of modern inequality.
 
@@ -988,7 +988,7 @@ An empirically powerful account of why interpersonal violence across the globe e
   - Pub Date: Feb 2026
   - Price: $24.95
   - ![cover](covers/9780691238142.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691238142/long-problems)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691238142/long-problems)
 
 Political strategies for tackling climate change and other “long problems” that span generations
 
@@ -1000,7 +1000,7 @@ Political strategies for tackling climate change and other “long problems” t
   - Pub Date: Apr 2026
   - Price: $27.95
   - ![cover](covers/9780691249797.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691249797/they-called-it-peace)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691249797/they-called-it-peace)
 
 A sweeping account of how small wars shaped global order in the age of empires
 
@@ -1012,7 +1012,7 @@ A sweeping account of how small wars shaped global order in the age of empires
   - Pub Date: Apr 2026
   - Price: $21.95
   - ![cover](covers/9780691230450.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691230450/the-civic-bargain)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691230450/the-civic-bargain)
 
 A powerful case for democracy and how it can adapt and survive—if we want it to
 
@@ -1024,7 +1024,7 @@ A powerful case for democracy and how it can adapt and survive—if we want it t
   - Pub Date: May 2026
   - Price: $24.95
   - ![cover](covers/9780691225852.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691225852/the-last-plantation)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691225852/the-last-plantation)
 
 A revealing look at the covert and institutionalized racism lurking in the congressional workplace
 
@@ -1036,7 +1036,7 @@ A revealing look at the covert and institutionalized racism lurking in the congr
   - Pub Date: May 2026
   - Price: $24.95
   - ![cover](covers/9780691245997.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691245997/the-minneapolis-reckoning)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691245997/the-minneapolis-reckoning)
 
 An urgent account of why it’s so difficult to reform the police
 
@@ -1048,7 +1048,7 @@ An urgent account of why it’s so difficult to reform the police
   - Pub Date: Apr 2026
   - Price: $29.95
   - ![cover](covers/9780691229690.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691229690/the-israeli-economy)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691229690/the-israeli-economy)
 
 An authoritative economic history of Israel from its founding to the present
 
@@ -1060,7 +1060,7 @@ An authoritative economic history of Israel from its founding to the present
   - Pub Date: May 2026
   - Price: $24.95
   - ![cover](covers/9780691240473.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691240473/capital)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691240473/capital)
 
 Marx for the twenty-first centuryThe first new English translation in fifty years—and the only one based on the last German edition revised by Marx himselfFeaturing extensive original commentary, including a foreword by acclaimed political theorist Wendy Brown“An astounding achievement.”—China Miéville, author of October: The Story of the Russian Revolution
 
@@ -1072,7 +1072,7 @@ Marx for the twenty-first centuryThe first new English translation in fifty year
   - Pub Date: Mar 2026
   - Price: $27.95
   - ![cover](covers/9780691232362.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691232362/money-capital)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691232362/money-capital)
 
 A novel perspective on monetary and fiscal policy that views money as the equity capital of a nation
 
@@ -1084,7 +1084,7 @@ A novel perspective on monetary and fiscal policy that views money as the equity
   - Pub Date: May 2026
   - Price: $27.95
   - ![cover](covers/9780691254432.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691254432/the-end-of-empires-and-a-world-remade)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691254432/the-end-of-empires-and-a-world-remade)
 
 A capacious history of decolonization from the decline of empires to the era of globalization
 
@@ -1108,7 +1108,7 @@ Beneath the Wage retheorizes capitalism from the perspective of the service econ
   - Pub Date: Jan 2026
   - Price: $19.95
   - ![cover](covers/9780691243771.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691243771/the-last-human-job)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691243771/the-last-human-job)
 
 A timely and urgent argument for preserving the work that connects us in the age of automation A compelling case for valuing care as a societal good and as skilled labor. —The Nation
 
@@ -1120,7 +1120,7 @@ A timely and urgent argument for preserving the work that connects us in the age
   - Pub Date: Feb 2026
   - Price: $19.95
   - ![cover](covers/9780691255071.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691255071/long-live-queer-nightlife)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691255071/long-live-queer-nightlife)
 
 It’s closing time for an alarming number of gay bars in cities around the globe—but it’s definitely not the last dance
 
@@ -1132,7 +1132,7 @@ It’s closing time for an alarming number of gay bars in cities around the glob
   - Pub Date: Mar 2026
   - Price: $24.95
   - ![cover](covers/9780691237947.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691237947/investigating-families)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691237947/investigating-families)
 
 How our reliance on Child Protective Services makes motherhood precarious for those already marginalized
 
@@ -1144,7 +1144,7 @@ How our reliance on Child Protective Services makes motherhood precarious for th
   - Pub Date: Mar 2026
   - Price: $2.99
   - ![cover](covers/9780691248943.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691248943)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691248943/the-suburban-crisis)
 
 The Suburban Crisis reveals how the War on Drugs reshaped white suburban America, transforming communities that had long considered themselves insulated from urban drug problems. Through archival research and compelling narratives, the book traces how drug enforcement policies penetrated the suburbs, altering families, policing, and the politics of race and class. A groundbreaking reexamination of the drug war's impact beyond the inner city.
 
@@ -1192,7 +1192,7 @@ Understanding the source of our current political and social malaise through our
   - Pub Date: Jan 2026
   - Price: $27.00
   - ![cover](covers/9781945861154.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9781945861154/counterrevolution)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9781945861154/counterrevolution)
 
 A thorough investigation of the current combination of austerity and extravagance that characterizes government spending and central bank monetary policy
 
@@ -1204,7 +1204,7 @@ A thorough investigation of the current combination of austerity and extravaganc
   - Pub Date: Jul 2026
   - Price: $35.00
   - ![cover](covers/9780691263083.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691263083/delivering-tolerance)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691263083/delivering-tolerance)
 
 A new theory of prejudice reduction, supported by rigorous evidence, arguing that public institutions and the people within them can improve intergroup relations in conflict-ridden societies
 
@@ -1228,7 +1228,7 @@ The communities, congregations, and faith-based coalitions that have been workin
   - Pub Date: Feb 2026
   - Price: $27.95
   - ![cover](covers/9780691233918.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691233918/the-power-of-hope)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691233918/the-power-of-hope)
 
 Why hope matters as a metric of economic and social well-being
 
@@ -1240,7 +1240,7 @@ Why hope matters as a metric of economic and social well-being
   - Pub Date: Jun 2026
   - Price: $27.95
   - ![cover](covers/9780691284514.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691284514/governing-global-emotions)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691284514/governing-global-emotions)
 
 What goes wrong when emotions get turned into digital data to be measured, monitored and managed
 
@@ -1276,7 +1276,7 @@ An exploration of Cuba’s emerging digital culture and Cubans’ creation of gr
   - Pub Date: Mar 2026
   - Price: $22.95
   - ![cover](covers/9780691284484.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691284484/everything-was-forever-until-it-was-no-more)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691284484/everything-was-forever-until-it-was-no-more)
 
 “[An] extraordinary book.”—Brian Eno • “One of the best books about the U.S.S.R. in its late stage.”—Alexei Navalny, from Patriot: A Memoir • “Not just history, but a pleasure to read, a true work of art.”—Slavoj Žižek • “Extraordinary and brilliant.”—Adam Curtis, director of HyperNormalisationA fascinating exploration of “hypernormalization” in a political system that seemed powerful and eternal—even when it was on the verge of collapse
 
@@ -1312,7 +1312,7 @@ How Third World women seized the means of knowledge production to fight against 
   - Pub Date: May 2026
   - Price: $24.95
   - ![cover](covers/9780691227320.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691227320/policing-patients)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691227320/policing-patients)
 
 An inside look at the culture of surveillance that pits healthcare providers against their patients
 
@@ -1336,7 +1336,7 @@ How vaccine hesitancy can be understood as religious expression
   - Pub Date: Mar 2026
   - Price: $21.95
   - ![cover](covers/9780691235516.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691235516/slouch)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691235516/slouch)
 
 The strange and surprising history of the so-called epidemic of bad posture in modern America—from eugenics and posture pageants to today’s promoters of “paleo posture”
 
@@ -1360,7 +1360,7 @@ How the unique sleep habits of early humans fostered survival, innovation, and s
   - Pub Date: Feb 2026
   - Price: $2.99
   - ![cover](covers/9780691237756.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691237756)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit)
 
 What We Inherit explores how breakthroughs in genomics—from ancestry testing to gene editing—are colliding with deep-seated cultural myths about heredity, race, and identity. The book examines the promises and perils of new genetic technologies and asks what it means to inherit not just DNA but also the stories we tell about it. A thought-provoking investigation into the intersection of science, culture, and the future of human inheritance.
 
@@ -1396,7 +1396,7 @@ A visionary look at how novel attributes arise and become transformative innovat
   - Pub Date: Jun 2026
   - Price: $22.95
   - ![cover](covers/9780691250427.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691250427/the-evolution-of-power)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691250427/the-evolution-of-power)
 
 A sweeping new account of the role of power in the evolution of all life on Earth
 
@@ -1432,7 +1432,7 @@ The remarkable story of the global movement championing the idea that evidence, 
   - Pub Date: Mar 2026
   - Price: $2.99
   - ![cover](covers/9780691283975.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691283975)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691283975/strange-glow)
 
 Strange Glow traces the remarkable history of radiation from its discovery to its modern applications and dangers, illuminating how this invisible force has transformed medicine, energy, and warfare. The book explains the science of radiation in accessible terms while recounting the dramatic stories of the researchers, victims, and policymakers who shaped our understanding of its risks. An authoritative and engaging account of one of science's most fascinating and fearsome phenomena.
 
@@ -1468,7 +1468,7 @@ A user’s guide to navigating the intricate, often contradictory relationship b
   - Pub Date: Apr 2026
   - Price: $2.99
   - ![cover](covers/9780691191737.jpg)
-  - [Publisher page](https://press.princeton.edu/search?keywords=9780691191737)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691191737/thinking-ai)
 
 Thinking AI provides a comprehensive exploration of how artificial intelligence systems are designed to emulate aspects of human cognition, from perception and reasoning to language and decision-making. The book bridges computer science, cognitive psychology, and philosophy of mind to explain both the achievements and the fundamental limitations of machine intelligence. An illuminating guide for readers seeking to understand the science behind AI's most ambitious goal.
 
@@ -1528,7 +1528,7 @@ A scientific exploration of the varied forms, origins, and meanings of death
   - Pub Date: Mar 2026
   - Price: $29.95
   - ![cover](covers/9780691236728.jpg)
-  - [Publisher page](https://press.princeton.edu/books/paperback/9780691236728/the-empire-of-climate)
+  - [Publisher page](https://press.princeton.edu/books/hardcover/9780691236728/the-empire-of-climate)
 
 How the specter of climate has been used to explain history since antiquity
 
@@ -1561,7 +1561,7 @@ The definitive biography of Charles Darwin—now in one abridged and fully updat
 - **Captive Minds** — Avishai Margalit, Assaf Sharon
   - Author: Avishai Margalit, Assaf Sharon
   - ISBN: 9780674303102
-  - Pub Date: N/A
+  - Pub Date: 05/05/2026
   - Price: N/A
   - ![cover](covers/9780674303102.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674303102)
@@ -1573,7 +1573,7 @@ From philosophers Avishai Margalit and Assaf Sharon, an erudite yet approachable
 - **Jefferson's Wolf** — Christa Dierksheide, Nicholas Guyatt
   - Author: Christa Dierksheide, Nicholas Guyatt
   - ISBN: 9780674278325
-  - Pub Date: N/A
+  - Pub Date: 05/05/2026
   - Price: N/A
   - ![cover](covers/9780674278325.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674278325)
@@ -1585,7 +1585,7 @@ A decisive reassessment of Thomas Jefferson’s long-debated views on slavery, s
 - **The Age of Hobsbawm** — Emile Chabal
   - Author: Emile Chabal
   - ISBN: 9780674737761
-  - Pub Date: N/A
+  - Pub Date: 08/18/2026
   - Price: N/A
   - ![cover](covers/9780674737761.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674737761)
@@ -1597,7 +1597,7 @@ An intellectual biography of Eric Hobsbawm, one of the most influential thinkers
 - **The Blood-Dimmed Tide** — Jesse Kauffman
   - Author: Jesse Kauffman
   - ISBN: 9780674972353
-  - Pub Date: N/A
+  - Pub Date: 08/11/2026
   - Price: N/A
   - ![cover](covers/9780674972353.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674972353)
@@ -1609,7 +1609,7 @@ An expansive narrative of World War I’s Eastern Front challenges longstanding 
 - **Harnessing the State** — Hari Ramesh
   - Author: Hari Ramesh
   - ISBN: 9780674293618
-  - Pub Date: N/A
+  - Pub Date: 06/16/2026
   - Price: N/A
   - ![cover](covers/9780674293618.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674293618)
@@ -1621,7 +1621,7 @@ Building on the work of key twentieth-century US and Indian thinkers, a bold arg
 - **The President's Echo System** — Chad Levinson
   - Author: Chad Levinson
   - ISBN: 9780674302518
-  - Pub Date: N/A
+  - Pub Date: 06/02/2026
   - Price: N/A
   - ![cover](covers/9780674302518.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674302518)
@@ -1633,7 +1633,7 @@ A sharp analysis of the propaganda partnerships between US presidents and privat
 - **Pentagon Capitalism** — A. J. Murphy
   - Author: A. J. Murphy
   - ISBN: 9780674272811
-  - Pub Date: N/A
+  - Pub Date: 08/04/2026
   - Price: N/A
   - ![cover](covers/9780674272811.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674272811)
@@ -1645,7 +1645,7 @@ A pioneering study of the Cold War military-industrial complex shows how defense
 - **A Revolutionary Friendship** — Francis D. Cogliano
   - Author: Francis D. Cogliano
   - ISBN: 9780674304994
-  - Pub Date: N/A
+  - Pub Date: 05/05/2026
   - Price: N/A
   - ![cover](covers/9780674304994.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674304994)
@@ -1657,7 +1657,7 @@ The first full account of the relationship between George Washington and Thomas 
 - **The Art of Military Innovation** — Edward N. Luttwak, Eitan Shamir
   - Author: Edward N. Luttwak, Eitan Shamir
   - ISBN: 9780674305014
-  - Pub Date: N/A
+  - Pub Date: 08/18/2026
   - Price: N/A
   - ![cover](covers/9780674305014.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674305014)
@@ -1669,7 +1669,7 @@ The first full account of the relationship between George Washington and Thomas 
 - **Habsburgs on the Rio Grande** — Raymond Jonas
   - Author: Raymond Jonas
   - ISBN: 9780674305007
-  - Pub Date: N/A
+  - Pub Date: 05/12/2026
   - Price: N/A
   - ![cover](covers/9780674305007.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674305007)
@@ -1681,7 +1681,7 @@ The first full account of the relationship between George Washington and Thomas 
 - **The Muse of History** — Oswyn Murray
   - Author: Oswyn Murray
   - ISBN: 9780674304888
-  - Pub Date: N/A
+  - Pub Date: 05/19/2026
   - Price: N/A
   - ![cover](covers/9780674304888.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674304888)
@@ -1693,7 +1693,7 @@ A Times Literary Supplement Best Book of the YearFrom “one of the most thought
 - **The Promised Republic: Developmental Society and the Making of Modern Seoul, 1961–1979** — Russell Burge
   - Author: Russell Burge
   - ISBN: 9780674304819
-  - Pub Date: N/A
+  - Pub Date: 06/02/2026
   - Price: N/A
   - ![cover](covers/9780674304819.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674304819)
@@ -1705,7 +1705,7 @@ In The Promised Republic, Russell Burge offers a bold new history of South Korea
 - **Shallow Blue Empire** — Tamara Surani Fernando
   - Author: Tamara Surani Fernando
   - ISBN: 9780674294141
-  - Pub Date: N/A
+  - Pub Date: 07/07/2026
   - Price: N/A
   - ![cover](covers/9780674294141.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674294141)
@@ -1729,7 +1729,7 @@ From a leading historian, the story of how entrepreneurial Jewish immigrants tra
 - **Until I Find You** — Rachel Nolan
   - Author: Rachel Nolan
   - ISBN: 9780674304895
-  - Pub Date: N/A
+  - Pub Date: 05/19/2026
   - Price: N/A
   - ![cover](covers/9780674304895.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674304895)
@@ -1741,7 +1741,7 @@ Finalist for the Pulitzer Prize in NonfictionShortlisted for the 2025 Juan E. M�
 - **The Right to Oblivion** — Lowry Pressly
   - Author: Lowry Pressly
   - ISBN: 9780674304901
-  - Pub Date: N/A
+  - Pub Date: 06/16/2026
   - Price: N/A
   - ![cover](covers/9780674304901.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674304901)
@@ -1753,7 +1753,7 @@ Finalist for the Pulitzer Prize in NonfictionShortlisted for the 2025 Juan E. M�
 - **Yuppies** — Dylan Gottlieb
   - Author: Dylan Gottlieb
   - ISBN: 9780674248977
-  - Pub Date: N/A
+  - Pub Date: 05/12/2026
   - Price: N/A
   - ![cover](covers/9780674248977.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674248977)
@@ -1765,7 +1765,7 @@ How the rise of Wall Street in the 1980s lured a generation of young upstarts to
 - **Cash on the Block** — Beryl Satter
   - Author: Beryl Satter
   - ISBN: 9780674278479
-  - Pub Date: N/A
+  - Pub Date: 05/12/2026
   - Price: N/A
   - ![cover](covers/9780674278479.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674278479)
@@ -1777,7 +1777,7 @@ An incisive history of government and corporate failures to infuse capital into 
 - **Disposable Workers** — Paul Osterman
   - Author: Paul Osterman
   - ISBN: 9780674300248
-  - Pub Date: N/A
+  - Pub Date: 08/11/2026
   - Price: N/A
   - ![cover](covers/9780674300248.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674300248)
@@ -1789,7 +1789,7 @@ A revealing look at the decline in formal employment in favor of hiring contract
 - **Inheritance** — Harvey Whitehouse
   - Author: Harvey Whitehouse
   - ISBN: 9780674304956
-  - Pub Date: N/A
+  - Pub Date: 05/12/2026
   - Price: N/A
   - ![cover](covers/9780674304956.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674304956)
@@ -1801,7 +1801,7 @@ An “exhilarating” (Irish Times) and “ambitious” (The Guardian) account o
 - **Religion as Make-Believe** — Neil Van Leeuwen
   - Author: Neil Van Leeuwen
   - ISBN: 9780674305021
-  - Pub Date: N/A
+  - Pub Date: 08/18/2026
   - Price: N/A
   - ![cover](covers/9780674305021.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674305021)
@@ -1813,7 +1813,7 @@ An “exhilarating” (Irish Times) and “ambitious” (The Guardian) account o
 - **Thinking with Plants and Fungi** — Rachael Petersen, Natalia Schwien Scott, Russell C. Powell
   - Author: Rachael Petersen, Natalia Schwien Scott, Russell C. Powell
   - ISBN: 9780674305113
-  - Pub Date: N/A
+  - Pub Date: 06/23/2026
   - Price: N/A
   - ![cover](covers/9780674305113.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674305113)
@@ -1825,7 +1825,7 @@ Thinking with Plants and Fungi brings together leading voices from science, the 
 - **The Voyage of Sorcerer II** — J. Craig Venter, David Ewing Duncan
   - Author: J. Craig Venter, David Ewing Duncan
   - ISBN: 9780674304932
-  - Pub Date: N/A
+  - Pub Date: 06/16/2026
   - Price: N/A
   - ![cover](covers/9780674304932.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674304932)
@@ -1837,7 +1837,7 @@ Thinking with Plants and Fungi brings together leading voices from science, the 
 - **Mapmatics** — Paulina Rowińska
   - Author: Paulina Rowińska
   - ISBN: 9780674304925
-  - Pub Date: N/A
+  - Pub Date: 05/12/2026
   - Price: N/A
   - ![cover](covers/9780674304925.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674304925)
@@ -1849,7 +1849,7 @@ An “original” (Nature) and “expansive journey through time and place” (G
 - **A Guess at the Riddle** — David Z Albert
   - Author: David Z Albert
   - ISBN: 9780674304963
-  - Pub Date: N/A
+  - Pub Date: 08/18/2026
   - Price: N/A
   - ![cover](covers/9780674304963.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780674304963)
@@ -1861,7 +1861,7 @@ From the celebrated author of Quantum Mechanics and Experience comes a “provoc
 - **The Cultural Foundations of Early South American Societies** — Tom D. Dillehay, Eduardo G. Neves
   - Author: Tom D. Dillehay, Eduardo G. Neves
   - ISBN: 9780884025344
-  - Pub Date: N/A
+  - Pub Date: 07/14/2026
   - Price: N/A
   - ![cover](covers/9780884025344.jpg)
   - [Publisher page](https://www.hup.harvard.edu/books/9780884025344)
@@ -1954,14 +1954,15 @@ This volume by an international group of historians presents case studies on the
 
 中文摘要：本书由一组国际历史学家撰写，通过案例研究探讨了苏联及莫斯科欧洲卫星国中身体暴力的使用和类型。研究考察了国家支持的暴力如何在苏联阵营中作为政治控制工具运作。作者通过跨学科视角连接理论与实践，让复杂问题更易理解。
 
-- **The Great Global Transformation: The United States, China, and the Remaking of the World Economic Order** — Branko Milanovic
+- **Trading Freedom** — Branko Milanovic
   - Author: Branko Milanovic
   - ISBN: 9780226846415
   - Pub Date: Mar 2026
   - Price: $30.00
-  - [Publisher page](https://www.google.com/search?q=9780226846415+book)
+  - ![cover](covers/9780226846415.jpg)
+  - [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/T/bo123378154.html)
 
-The Great Global Transformation examines how the rivalry between the United States and China is fundamentally reshaping the world economic order. The book analyzes the trade conflicts, technological competition, and institutional struggles that are redefining global capitalism in the twenty-first century. A sweeping and incisive account of the geopolitical forces driving the most consequential economic realignment of our time.
+The book Trading Freedom: How Trade with China Defined Early America, Dael A. Norwood is published by University of Chicago Press.
 
 中文摘要：《大全球转型》考察了美中之间的竞争如何从根本上重塑世界经济秩序。本书分析了正在重新定义二十一世纪全球资本主义的贸易冲突、技术竞争和制度博弈。这是对推动我们时代最具深远影响的经济格局重组的地缘政治力量的全面而深刻的论述。
 
@@ -1970,53 +1971,45 @@ The Great Global Transformation examines how the rivalry between the United Stat
   - ISBN: TBD
   - Pub Date: TBD
   - Price: N/A
-  - [Publisher page](https://yalebooks.yale.edu/search-results/?query=Fascism)
+  - [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/F/bo247752701.html)
 
 Description pending verification from publisher page.
 
 中文摘要：《Fascism》围绕关键议题展开分析，梳理其历史背景与现实意义。作者结合案例与证据，说明问题如何在制度与社会层面持续发生。全书论证清晰，兼具学术深度与可读性。
 
-- **Democracy's Meanings: How the Public Thinks about Democracy in the United States** — Larry M. Bartels and Katherine J. Cramer
+- **Democracy for Busy People** — Larry M. Bartels and Katherine J. Cramer
   - Author: Larry M. Bartels and Katherine J. Cramer
   - ISBN: 9780226845234
   - Pub Date: Mar 2026
   - Price: $24.00
-  - [Publisher page](https://www.google.com/search?q=9780226845234+book)
+  - ![cover](covers/9780226845234.jpg)
+  - [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/D/bo194847654.html)
 
-Democracy's Meanings draws on extensive public opinion research to explore how ordinary Americans actually understand and evaluate democracy. The book reveals that citizens hold diverse and sometimes conflicting conceptions of democratic governance, with profound implications for political polarization and institutional legitimacy. A vital empirical contribution to debates about the health and future of American democracy.
+The book Democracy for Busy People, Kevin J. Elliott is published by University of Chicago Press.
 
 中文摘要：《民主的含义》借助大量民意研究，探讨普通美国人实际上如何理解和评价民主。本书揭示了公民对民主治理持有多样且有时相互矛盾的观念，这对政治极化和制度合法性有着深远影响。这是对关于美国民主健康状况和未来辩论的重要实证贡献。
 
-- **This Is a True War Story: My Year in Iraq with General Petraeus** — Joel Rayburn
+- **Instructions for American Servicemen in Iraq during World War II** — Joel Rayburn
   - Author: Joel Rayburn
   - ISBN: 9780226847993
   - Pub Date: N/A
   - Price: N/A
-  - [Publisher page](https://www.google.com/search?q=9780226847993+book)
+  - ![cover](covers/9780226847993.jpg)
+  - [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/I/bo5579572.html)
 
-This Is a True War Story is a firsthand memoir of serving alongside General David Petraeus during one of the most pivotal years of the Iraq War. The author offers an unvarnished account of the daily realities of counterinsurgency strategy, military decision-making, and life inside the command structure of a war zone. A gripping and deeply personal narrative that brings readers inside the fog of modern warfare.
+The book Instructions for American Servicemen in Iraq during World War II, United States Army is published by University of Chicago Press.
 
 中文摘要：《这是一个真实的战争故事》是一部第一人称回忆录，记录了作者在伊拉克战争最关键的一年中与戴维·彼得雷乌斯将军并肩服役的经历。作者对反叛乱战略的日常现实、军事决策以及战区指挥体系内的生活进行了坦率的叙述。这是一部扣人心弦且极具个人色彩的叙事作品，将读者带入现代战争的迷雾之中。
 
-- **Paying for the Party: How Family and College Perpetuate Inequality** — (reissue)
+- **The Accidental Equalizer** — (reissue)
   - Author: (reissue)
   - ISBN: 9780226850184
   - Pub Date: N/A
   - Price: N/A
-  - [Publisher page](https://www.google.com/search?q=9780226850184+book)
+  - ![cover](covers/9780226850184.jpg)
+  - [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/A/bo206059711.html)
 
-This book examines how the intersection of family wealth and university culture creates divergent pathways through college, with affluent students benefiting from a robust \"party pathway\" while working-class students struggle to find academic and social footing. Drawing on extensive ethnographic research, it reveals how higher education institutions inadvertently reproduce class-based inequality rather than serving as engines of upward mobility.
-
-中文摘要：本书探讨了家庭财富与大学文化的交汇如何为大学生创造出截然不同的发展路径——富裕学生从成熟的。作者通过跨学科视角连接理论与实践，让复杂问题更易理解。对于希望快速把握该主题核心争议的读者，这本书提供了可靠框架。
-
-- **The Supreme Court Review, 2024** — ed. David A. Strauss
-  - Author: ed. David A. Strauss
-  - ISBN: 9780226848891
-  - Pub Date: N/A
-  - Price: $80.00
-  - [Publisher page](https://www.google.com/search?q=9780226848891+book)
-
-This annual volume offers rigorous scholarly analysis of the most significant cases and developments from the 2024 term of the United States Supreme Court. Leading constitutional law scholars provide in-depth commentary on landmark rulings, doctrinal shifts, and the evolving jurisprudence shaping American law and governance.
+The book The Accidental Equalizer: How Luck Determines Pay after College, Jessi Streib is published by University of Chicago Press.
 
 中文摘要：本书探讨了家庭财富与大学文化的交汇如何为大学生创造出截然不同的发展路径——富裕学生从成熟的。作者通过跨学科视角连接理论与实践，让复杂问题更易理解。对于希望快速把握该主题核心争议的读者，这本书提供了可靠框架。
 
@@ -2025,20 +2018,22 @@ This annual volume offers rigorous scholarly analysis of the most significant ca
   - ISBN: 9780226826158
   - Pub Date: Apr 2026
   - Price: $24.00
-  - [Publisher page](https://www.google.com/search?q=9780226826158+book)
+  - ![cover](covers/9780226826158.jpg)
+  - [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/H/bo264674424.html)
 
-This ethnographic study explores the enduring bonds of loyalty, identity, and brotherhood among young men in urban neighborhoods shaped by gang culture. It examines how these relationships persist across the life course, influencing decisions about family, work, and community even as members age out of active street life.
+The book Homeboys Forever: The Lifetime Consequences of Gang Membership, Avelardo Valdez is published by University of Chicago Press.
 
 中文摘要：本年度文集对美国最高法院2024年开庭期内最重要的案件和司法发展进行了严谨的学术分析。顶尖宪法学者对具有里程碑意义的裁决、法律原则的转变以及塑造美国法律与治理的司法演进提供了深入评论。作者通过跨学科视角连接理论与实践，让复杂问题更易理解。
 
-- **The Walking Wounded: Festering Injuries and Gun Violence** — Jooyoung Lee
+- **The Walking Wounded** — Jooyoung Lee
   - Author: Jooyoung Lee
   - ISBN: 9780226848433
   - Pub Date: Apr 2026
   - Price: $20.00
-  - [Publisher page](https://www.google.com/search?q=9780226848433+book)
+  - ![cover](covers/9780226848433.jpg)
+  - [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/W/bo265346805.html)
 
-This book investigates the long-term physical and psychological consequences of gun violence, focusing on survivors who endure chronic pain, disability, and trauma long after their initial injuries. It reveals how inadequate medical follow-up and social support systems leave many victims in a cycle of suffering that is largely invisible to public health discourse.
+The book The Walking Wounded: Festering and Ricocheting Trauma After Gun Violence, Jooyoung Lee is published by University of Chicago Press.
 
 中文摘要：本民族志研究探讨了在帮派文化影响下的城市社区中，年轻男性之间持久的忠诚纽带、身份认同和兄弟情谊。书中考察了这些关系如何贯穿人生历程，即使成员逐渐退出活跃的街头生活，这些纽带仍然影响着他们在家庭、工作和社区方面的决策。作者通过跨学科视角连接理论与实践，让复杂问题更易理解。
 
@@ -2047,9 +2042,10 @@ This book investigates the long-term physical and psychological consequences of 
   - ISBN: 9780226849973
   - Pub Date: Jun 2026
   - Price: $24.00
-  - [Publisher page](https://www.google.com/search?q=9780226849973+book)
+  - ![cover](covers/9780226849973.jpg)
+  - [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/B/bo268014283.html)
 
-This work challenges readers to critically examine and dismantle entrenched institutional structures that perpetuate systemic injustice across education, governance, and social policy. It offers both a theoretical framework and practical strategies for transformative change, arguing that incremental reform is insufficient to address deeply rooted inequities.
+The book Break the System: Criminalized Black Mothers and the Reproductive Politics of Abolition, Susila Gurusami is published by University of Chicago Press.
 
 中文摘要：本书调查了枪支暴力的长期身体和心理后果，聚焦于那些在最初受伤后长期忍受慢性疼痛、残疾和心理创伤的幸存者。书中揭示了不完善的医疗随访和社会支持体系如何使许多受害者陷入持续痛苦的循环，而这种苦难在公共卫生话语中却基本上不被看见。作者通过跨学科视角连接理论与实践，让复杂问题更易理解。
 
@@ -2058,31 +2054,34 @@ This work challenges readers to critically examine and dismantle entrenched inst
   - ISBN: 9780226847665
   - Pub Date: Apr 2026
   - Price: $24.00
-  - [Publisher page](https://www.google.com/search?q=9780226847665+book)
+  - ![cover](covers/9780226847665.jpg)
+  - [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/K/bo263809689.html)
 
-This book examines programs that place young people in quasi-policing roles within their communities, analyzing the complex dynamics of youth authority, surveillance, and civic engagement. It critically assesses how these initiatives shape participants' understanding of law enforcement while raising questions about the boundaries between community empowerment and social control.
+The book Kid Cops: What Communities Gain and Lose from Junior Police in Schools, Mai Thai is published by University of Chicago Press.
 
 中文摘要：本书促使读者批判性地审视并拆解在教育、治理和社会政策中延续系统性不公的根深蒂固的制度结构。书中提供了变革性改革的理论框架和实践策略，认为渐进式改良不足以解决根深蒂固的不平等问题。作者通过跨学科视角连接理论与实践，让复杂问题更易理解。
 
-- **Wanting Children: Family-Planning Policy and Reproductive Laws** — Leonard M. Lopoo
+- **Wanting Children** — Leonard M. Lopoo
   - Author: Leonard M. Lopoo
   - ISBN: 9780226850146
   - Pub Date: Jun 2026
   - Price: $20.00
-  - [Publisher page](https://www.google.com/search?q=9780226850146+book)
+  - ![cover](covers/9780226850146.jpg)
+  - [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/W/bo267049912.html)
 
-This book provides a comprehensive analysis of family-planning policies and reproductive legislation across different political and legal contexts, examining how governments regulate fertility decisions. It explores the tensions between individual reproductive autonomy and state demographic objectives, tracing the evolution of laws that shape who can have children and under what circumstances.
+The book Wanting Children: Family-Planning Policies and the Engineering of America’s Population, Leonard M. Lopoo is published by University of Chicago Press.
 
 中文摘要：本书考察了将年轻人安排在社区中承担准警务角色的项目，分析了青少年权威、监控与公民参与之间的复杂动态。书中批判性地评估了这些举措如何塑造参与者对执法的理解，同时提出了关于社区赋权与社会控制之间界限的问题。作者通过跨学科视角连接理论与实践，让复杂问题更易理解。
 
-- **Schools for Sale: Disinvestment in Public Education** — Bierbaum, Bach, and Simon
+- **The Public School Advantage** — Bierbaum, Bach, and Simon
   - Author: Bierbaum, Bach, and Simon
   - ISBN: 9780226834603
   - Pub Date: Jun 2026
   - Price: $25.00
-  - [Publisher page](https://www.google.com/search?q=9780226834603+book)
+  - ![cover](covers/9780226834603.jpg)
+  - [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/P/bo16956223.html)
 
-This book documents the systematic disinvestment in American public education, examining how budget cuts, privatization efforts, and market-driven reforms have eroded the foundations of public schooling. It argues that the transfer of resources from public to private educational entities deepens educational inequality and undermines the democratic mission of public schools.
+The book The Public School Advantage: Why Public Schools Outperform Private Schools, Christopher A. Lubienski and Sarah Theule Lubienski is published by University of Chicago Press.
 
 中文摘要：本书全面分析了不同政治和法律背景下的计划生育政策与生育立法，考察了政府如何管控生育决策。书中探讨了个人生育自主权与国家人口目标之间的张力，追溯了那些决定谁能生育以及在何种条件下生育的法律演变过程。作者通过跨学科视角连接理论与实践，让复杂问题更易理解。
 
@@ -2091,20 +2090,22 @@ This book documents the systematic disinvestment in American public education, e
   - ISBN: 9780226750064
   - Pub Date: Apr 2026
   - Price: $30.00
-  - [Publisher page](https://www.google.com/search?q=9780226750064+book)
+  - ![cover](covers/9780226750064.jpg)
+  - [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/A/bo264671741.html)
 
-Addiction, Inc. examines how the tobacco and pharmaceutical industries have shaped scientific understandings of addiction to serve corporate interests. Drawing on extensive archival research, the book reveals how commercial actors have influenced public health policy, medical practice, and the very definition of addictive behavior in modern America.
+The book Addiction, Inc.: Medication-Assisted Treatment and America’s Forgotten War on Drugs, Emily Dufton is published by University of Chicago Press.
 
 中文摘要：《成瘾公司》探讨了烟草和制药行业如何塑造关于成瘾的科学认知以服务于企业利益。本书基于大量档案研究，揭示了商业主体如何影响公共卫生政策、医疗实践以及现代美国对成瘾行为的定义本身。作者通过跨学科视角连接理论与实践，让复杂问题更易理解。
 
-- **Quantum 2.0: The Weird Physics Driving a New Revolution in Technology** — Paul Davies
+- **Quantum 2.0** — Paul Davies
   - Author: Paul Davies
   - ISBN: 9780226849324
   - Pub Date: Feb 2026
   - Price: $26.00
-  - [Publisher page](https://www.google.com/search?q=9780226849324+book)
+  - ![cover](covers/9780226849324.jpg)
+  - [Publisher page](https://press.uchicago.edu/ucp/books/book/chicago/Q/bo267050720.html)
 
-Quantum 2.0 provides an accessible introduction to the second quantum revolution, explaining how breakthroughs in quantum computing, quantum communication, and quantum sensing are poised to transform technology. The book bridges the gap between the strange principles of quantum mechanics and their rapidly emerging real-world applications.
+The book Quantum 2.0: The Weird Physics Driving a New Revolution in Technology, Paul Davies is published by University of Chicago Press.
 
 中文摘要：《量子2.0》以通俗易懂的方式介绍了第二次量子革命，阐释了量子计算、量子通信和量子传感领域的突破如何即将改变技术格局。本书在量子力学的奇异原理与其迅速涌现的现实应用之间架起了桥梁。作者通过跨学科视角连接理论与实践，让复杂问题更易理解。
 
@@ -2124,6 +2125,7 @@ Why Privacy Matters offers a rigorous philosophical defense of privacy as a fund
   - ISBN: 9781805265238
   - Pub Date: May 1, 2026
   - Price: $34.99
+  - ![cover](covers/9781805265238.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9781805265238?lang=en&cc=us)
 
 A Thousand Miracles tells the extraordinary story of a Holocaust survivor who went on to play a pivotal role in the international adjudication of genocide. This memoir weaves together personal narrative and legal history, reflecting on the meaning of justice for survivors who later confront mass atrocity in a professional capacity.
@@ -2135,6 +2137,7 @@ A Thousand Miracles tells the extraordinary story of a Holocaust survivor who we
   - ISBN: 9780197836965
   - Pub Date: Mar 2, 2026
   - Price: $19.99
+  - ![cover](covers/9780197836965.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197836965?lang=en&cc=us)
 
 Power and Liberty explores the constitutional ideas and debates that shaped the American Revolution, tracing how colonists drew on and transformed existing traditions of constitutionalism. The book illuminates the tension between governmental power and individual liberty that defined the founding era and continues to resonate in American political thought.
@@ -2146,6 +2149,7 @@ Power and Liberty explores the constitutional ideas and debates that shaped the 
   - ISBN: 9780197821909
   - Pub Date: Mar 20, 2026
   - Price: $29.99
+  - ![cover](covers/9780197821909.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197821909?lang=en&cc=us)
 
 Money, Politics, and the First Amendment analyzes five decades of Supreme Court jurisprudence on campaign finance, from Buckley v. Valeo to the present. The book critically examines how the Court has balanced free speech protections with concerns about corruption and democratic equality in the regulation of political spending.
@@ -2157,6 +2161,7 @@ Money, Politics, and the First Amendment analyzes five decades of Supreme Court 
   - ISBN: 9780197823606
   - Pub Date: Mar 31, 2026
   - Price: $39.95
+  - ![cover](covers/9780197823606.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197823606?lang=en&cc=us)
 
 Truth About Natural Law provides a comprehensive examination of natural law theory from its ancient origins through its contemporary applications. The book traces the historical development, philosophical foundations, and practical consequences of natural law thinking for legal and moral reasoning.
@@ -2168,6 +2173,7 @@ Truth About Natural Law provides a comprehensive examination of natural law theo
   - ISBN: 9780198925705
   - Pub Date: Apr 29, 2026
   - Price: $230
+  - ![cover](covers/9780198925705.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198925705?lang=en&cc=us)
 
 This comprehensive commentary provides an article-by-article analysis of the EU Artificial Intelligence Act, the world's first major regulatory framework for AI. Drawing on contributions from leading scholars and practitioners in technology law, the volume examines the Act's risk-based classification system, compliance obligations, and enforcement mechanisms, offering critical insights into its implications for innovation, fundamental rights, and global AI governance.
@@ -2179,6 +2185,7 @@ This comprehensive commentary provides an article-by-article analysis of the EU 
   - ISBN: 9780197795064
   - Pub Date: May 29, 2026
   - Price: $170
+  - ![cover](covers/9780197795064.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197795064?lang=en&cc=us)
 
 This groundbreaking volume explores the experiences, contributions, and challenges of women in the legal profession across Africa through a comparative lens. Bringing together scholars from multiple African jurisdictions, the book examines how gender, colonial legacies, and cultural norms shape women's access to legal education, judicial appointment, and leadership within the continent's diverse legal systems.
@@ -2190,6 +2197,7 @@ This groundbreaking volume explores the experiences, contributions, and challeng
   - ISBN: 9780197810385
   - Pub Date: May 29, 2026
   - Price: $35
+  - ![cover](covers/9780197810385.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197810385?lang=en&cc=us)
 
 This timely volume examines the profound ethical questions raised by in vitro gametogenesis (IVG), a revolutionary technology that promises to create human eggs and sperm from ordinary somatic cells. The authors address IVG's far-reaching implications for reproductive autonomy, parentage, genetic selection, and social equality, offering a rigorous multidisciplinary framework for navigating its moral complexities.
@@ -2212,6 +2220,7 @@ This book provides a rigorous philosophical examination of the ethics surroundin
   - ISBN: 9780198925118
   - Pub Date: May 17, 2026
   - Price: $135
+  - ![cover](covers/9780198925118.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198925118?lang=en&cc=us)
 
 This innovative study investigates the intersection of criminal records, media publicity, and crimes of abuse, exploring how the disclosure of one person's criminal past affects the rights and reputations of others. The book critically analyzes the legal and ethical tensions between transparency, rehabilitation, and privacy in an era of pervasive digital information and public interest in criminal justice.
@@ -2223,6 +2232,7 @@ This innovative study investigates the intersection of criminal records, media p
   - ISBN: 9780198944850
   - Pub Date: May 12, 2026
   - Price: $135
+  - ![cover](covers/9780198944850.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198944850?lang=en&cc=us)
 
 This thought-provoking work explores the grey zones and ambiguities that permeate the international law governing the use of force. Through a careful analysis of state practice, legal doctrine, and contested military operations, the book reveals how varying shades of illegality challenge the binary legal–illegal framework and complicate the enforcement of the prohibition on war.
@@ -2234,6 +2244,7 @@ This thought-provoking work explores the grey zones and ambiguities that permeat
   - ISBN: 9780197799413
   - Pub Date: May 5, 2026
   - Price: $170
+  - ![cover](covers/9780197799413.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197799413?lang=en&cc=us)
 
 This interdisciplinary volume examines how artificial intelligence and big data technologies can be harnessed to drive inclusive innovation that benefits marginalized and underserved communities. The contributors analyze policy frameworks, business models, and governance mechanisms needed to ensure that the transformative potential of emerging technologies narrows rather than widens existing social and economic inequalities.
@@ -2245,6 +2256,7 @@ This interdisciplinary volume examines how artificial intelligence and big data 
   - ISBN: 9780197686966
   - Pub Date: May 26, 2026
   - Price: $29.99
+  - ![cover](covers/9780197686966.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197686966?lang=en&cc=us)
 
 This authoritative treatise provides a comprehensive account of the international legal framework governing non-international armed conflicts, including civil wars, insurgencies, and other internal hostilities. The book systematically examines the applicable rules of international humanitarian law, human rights law, and international criminal law, addressing critical issues of classification, combatant status, and civilian protection.
@@ -2256,6 +2268,7 @@ This authoritative treatise provides a comprehensive account of the internationa
   - ISBN: 9780197748992
   - Pub Date: Apr 24, 2026
   - Price: $54.95
+  - ![cover](covers/9780197748992.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197748992?lang=en&cc=us)
 
 This critical volume assesses the enduring impact of the War on Terror on the international legal order, examining how two decades of counterterrorism operations have reshaped the laws of armed conflict, state sovereignty, and human rights protections. The contributors argue that the normalization of perpetual war has eroded fundamental legal constraints and created lasting precedents that continue to challenge the rule of law.
@@ -2267,6 +2280,7 @@ This critical volume assesses the enduring impact of the War on Terror on the in
   - ISBN: 9780198784494
   - Pub Date: Apr 22, 2026
   - Price: $135
+  - ![cover](covers/9780198784494.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198784494?lang=en&cc=us)
 
 This book offers a robust defence of political constitutionalism, arguing that democratic institutions and political accountability should take precedence over judicial review in resolving fundamental constitutional questions. Drawing on constitutional theory and comparative practice, it challenges the dominance of legal constitutionalism and makes a compelling case for restoring the primacy of parliamentary sovereignty and democratic deliberation.
@@ -2278,6 +2292,7 @@ This book offers a robust defence of political constitutionalism, arguing that d
   - ISBN: 9780198895534
   - Pub Date: Apr 20, 2026
   - Price: $135
+  - ![cover](covers/9780198895534.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198895534?lang=en&cc=us)
 
 This book examines how authoritarian regimes initiate, manage, and instrumentalize processes of constitutional change to consolidate power while maintaining a veneer of legitimacy. Through comparative case studies, it analyzes the strategic use of constitutional amendments, replacements, and referendums by autocratic leaders, shedding light on the complex relationship between constitutionalism and authoritarian governance.
@@ -2289,6 +2304,7 @@ This book examines how authoritarian regimes initiate, manage, and instrumentali
   - ISBN: 9780198946038
   - Pub Date: Apr 22, 2026
   - Price: $30
+  - ![cover](covers/9780198946038.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198946038?lang=en&cc=us)
 
 This volume provides an authoritative and up-to-date examination of the European Court of Human Rights, covering its institutional structure, procedural mechanisms, and evolving jurisprudence. The book critically assesses the Court's role in shaping the protection of fundamental rights across Europe, addressing pressing challenges including its growing caseload, the implementation of judgments, and its relationship with national courts.
@@ -2300,6 +2316,7 @@ This volume provides an authoritative and up-to-date examination of the European
   - ISBN: 9780197838525
   - Pub Date: Apr 24, 2026
   - Price: $200
+  - ![cover](covers/9780197838525.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197838525?lang=en&cc=us)
 
 This pioneering study reexamines the interstate relations of ancient Greece through the lens of modern international law theory, demonstrating that the Greeks developed sophisticated normative frameworks governing diplomacy, treaty-making, war, and neutrality. By treating international law as a social reality rather than a modern invention, the book challenges conventional narratives about the origins of the international legal order.
@@ -2311,6 +2328,7 @@ This pioneering study reexamines the interstate relations of ancient Greece thro
   - ISBN: 9780198945468
   - Pub Date: Apr 22, 2026
   - Price: $135
+  - ![cover](covers/9780198945468.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198945468?lang=en&cc=us)
 
 This book presents a compelling case for adopting a public health approach to violence reduction, treating violence as a preventable epidemic rather than solely a criminal justice problem. Drawing on evidence from epidemiology, social science, and community-based interventions, it outlines strategies that address the root causes of violence through prevention, early intervention, and multi-agency collaboration.
@@ -2322,6 +2340,7 @@ This book presents a compelling case for adopting a public health approach to vi
   - ISBN: 9780197852118
   - Pub Date: Apr 1, 2026
   - Price: $60
+  - ![cover](covers/9780197852118.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197852118?lang=en&cc=us)
 
 This book traces Qatar's remarkable emergence as a prominent international mediator, examining how the small Gulf state has leveraged its wealth, diplomatic networks, and strategic positioning to broker peace processes across the Middle East, Africa, and beyond. The authors critically assess Qatar's mediation model, its motivations, successes, and limitations, situating its rise within broader debates about small-state diplomacy and global conflict resolution.
@@ -2333,6 +2352,7 @@ This book traces Qatar's remarkable emergence as a prominent international media
   - ISBN: 9780197617144
   - Pub Date: Mar 6, 2026
   - Price: $135
+  - ![cover](covers/9780197617144.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197617144?lang=en&cc=us)
 
 This book critically examines how states deploy criminal law to suppress acts of civil disobedience, protest, and political dissent. Drawing on legal theory, constitutional law, and case studies from democratic societies, it interrogates the boundaries between legitimate state authority and the criminalization of conscience-driven resistance.
@@ -2344,6 +2364,7 @@ This book critically examines how states deploy criminal law to suppress acts of
   - ISBN: 9780199325795
   - Pub Date: Apr 7, 2026
   - Price: $170
+  - ![cover](covers/9780199325795.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780199325795?lang=en&cc=us)
 
 This volume develops a normative framework for criminal punishment grounded in the principle of human dignity. It argues that sentencing practices—including incapacitation—must be reconceived to respect the moral worth of offenders while still fulfilling the legitimate aims of the penal system.
@@ -2355,6 +2376,7 @@ This volume develops a normative framework for criminal punishment grounded in t
   - ISBN: 9780197749821
   - Pub Date: Mar 10, 2026
   - Price: $170
+  - ![cover](covers/9780197749821.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197749821?lang=en&cc=us)
 
 This collection presents a sustained defense of philosophical realism across metaphysics, epistemology, and the philosophy of science. Engaging with anti-realist challenges from constructivism, pragmatism, and deflationism, the author articulates a robust account of how our beliefs and theories can track mind-independent reality.
@@ -2366,6 +2388,7 @@ This collection presents a sustained defense of philosophical realism across met
   - ISBN: 9780197759349
   - Pub Date: Mar 11, 2026
   - Price: $132
+  - ![cover](covers/9780197759349.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197759349?lang=en&cc=us)
 
 This book offers a comprehensive analysis of proportionality as a foundational principle for evaluating public health interventions. It examines how the balancing of individual rights against collective welfare shapes legal frameworks, ethical reasoning, and policy design in areas ranging from infectious disease control to health equity.
@@ -2377,6 +2400,7 @@ This book offers a comprehensive analysis of proportionality as a foundational p
   - ISBN: 9780198810483
   - Pub Date: Mar 5, 2026
   - Price: $135
+  - ![cover](covers/9780198810483.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198810483?lang=en&cc=us)
 
 This study provides a detailed examination of Jean Bodin's systematic classification of law in his Iuris Universi Distributio, situating it within the intellectual currents of sixteenth-century legal humanism. It reveals how Bodin's taxonomic project shaped early modern conceptions of legal science and the organization of juridical knowledge.
@@ -2388,6 +2412,7 @@ This study provides a detailed examination of Jean Bodin's systematic classifica
   - ISBN: 9780197812143
   - Pub Date: Mar 20, 2026
   - Price: $135
+  - ![cover](covers/9780197812143.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197812143?lang=en&cc=us)
 
 This book investigates the legal status of suicide attacks under international humanitarian law, analyzing how existing frameworks of distinction, proportionality, and precaution apply to this form of violence. It addresses critical gaps in the regulation of armed conflict and proposes doctrinal approaches to hold perpetrators and their organizers accountable.
@@ -2399,6 +2424,7 @@ This book investigates the legal status of suicide attacks under international h
   - ISBN: 9780198955856
   - Pub Date: Mar 31, 2026
   - Price: $130
+  - ![cover](covers/9780198955856.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198955856?lang=en&cc=us)
 
 This volume brings together leading legal philosophers to engage with the work of Leslie Green on the relationship between law and morality. The essays explore themes central to Green's scholarship, including legal positivism, the authority of law, the obligations of legal officials, and the moral limits of legal coercion.
@@ -2410,6 +2436,7 @@ This volume brings together leading legal philosophers to engage with the work o
   - ISBN: 9780197821114
   - Pub Date: Jan 30, 2026
   - Price: $110
+  - ![cover](covers/9780197821114.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197821114?lang=en&cc=us)
 
 This book assesses the challenges confronting the United States All-Volunteer Force amid evolving geopolitical threats, recruitment shortfalls, and shifting civil-military relations. Drawing on policy analysis and military expertise, it offers reform proposals to sustain a capable and resilient volunteer military for the twenty-first century.
@@ -2421,6 +2448,7 @@ This book assesses the challenges confronting the United States All-Volunteer Fo
   - ISBN: 9780198964513
   - Pub Date: Jan 28, 2026
   - Price: $110
+  - ![cover](covers/9780198964513.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198964513?lang=en&cc=us)
 
 This interdisciplinary volume explores how nationalism shapes individual and collective subjectivity across East Asian societies, including China, Japan, and Korea. Through historical, cultural, and political analysis, the contributors examine how national identity is internalized, contested, and reproduced in everyday life and public discourse.
@@ -2432,6 +2460,7 @@ This interdisciplinary volume explores how nationalism shapes individual and col
   - ISBN: 9780197804728
   - Pub Date: Jan 22, 2026
   - Price: $29.99
+  - ![cover](covers/9780197804728.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197804728?lang=en&cc=us)
 
 This ethnographic study examines how young Egyptian Muslims navigated questions of faith, political engagement, and revolutionary aspiration in the aftermath of the 2011 uprising. It explores the affective dimensions of Islamic piety and political subjectivity, revealing how youth grappled with divine will, disillusionment, and social transformation.
@@ -2443,6 +2472,7 @@ This ethnographic study examines how young Egyptian Muslims navigated questions 
   - ISBN: 9780198979562
   - Pub Date: Jan 22, 2026
   - Price: $45
+  - ![cover](covers/9780198979562.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198979562?lang=en&cc=us)
 
 This book examines the contested narratives and diplomatic negotiations that have shaped Poland's place in European and international politics. Combining historical analysis with contemporary policy debates, it investigates how competing visions of Polish statehood, sovereignty, and identity have been forged through consensus and conflict among domestic and external actors.
@@ -2454,6 +2484,7 @@ This book examines the contested narratives and diplomatic negotiations that hav
   - ISBN: 9780197789032
   - Pub Date: Jan 20, 2026
   - Price: $29.99
+  - ![cover](covers/9780197789032.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197789032?lang=en&cc=us)
 
 This book traces the trajectory of the Black Power movement from its roots in grassroots solidarity politics to its commodification and appropriation by mainstream culture. It critically analyzes how radical black activism was both celebrated and defused as it entered white liberal and countercultural spaces in the late twentieth century.
@@ -2465,6 +2496,7 @@ This book traces the trajectory of the Black Power movement from its roots in gr
   - ISBN: 9780198974512
   - Pub Date: Jan 20, 2026
   - Price: $130
+  - ![cover](covers/9780198974512.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198974512?lang=en&cc=us)
 
 This book investigates how non-state armed groups seek, gain, and are denied international legitimacy in the contemporary global order. Through comparative case studies, it analyzes the strategies armed actors employ to engage with international institutions, legal frameworks, and diplomatic processes to advance their political objectives.
@@ -2476,6 +2508,7 @@ This book investigates how non-state armed groups seek, gain, and are denied int
   - ISBN: 9780197840924
   - Pub Date: Jan 19, 2026
   - Price: $29.95
+  - ![cover](covers/9780197840924.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197840924?lang=en&cc=us)
 
 This book examines the global adaptation of Sesame Street as a case study in transnational media production, cultural localization, and international development partnerships. It analyzes how the program's expansion into diverse national contexts has been shaped by local cultural values, political constraints, and the organizational dynamics of cross-border collaboration.
@@ -2487,6 +2520,7 @@ This book examines the global adaptation of Sesame Street as a case study in tra
   - ISBN: 9780197827062
   - Pub Date: Jan 23, 2026
   - Price: $132
+  - ![cover](covers/9780197827062.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197827062?lang=en&cc=us)
 
 This book explores the intellectual legacy and political influence of the prominent Egyptian Islamic scholar Muhammad al-Ghazali in twentieth-century Egypt. It examines how al-Ghazali mediated between traditional Islamic authority and modern state power, shaping public discourse on religion, morality, and governance in a rapidly transforming society.
@@ -2520,7 +2554,7 @@ The Nigerian Paradox confronts the central puzzle of Africa's most populous nati
   - ISBN: 9780190668327
   - Pub Date: Jun 1, 2027
   - Price: $18.99
-  - [Publisher page](https://www.google.com/search?q=9780190668327+book)
+  - [Publisher page](https://global.oup.com/academic/search?cc=us&lang=en&q=9780190668327)
 
 The South China Sea provides a concise and accessible overview of one of the world's most strategically contested waterways, covering its complex territorial disputes, vast natural resources, and critical importance to global trade. Written in a question-and-answer format, this volume equips general readers and policymakers alike with the essential context needed to understand the region's escalating geopolitical tensions.
 
@@ -2531,6 +2565,7 @@ The South China Sea provides a concise and accessible overview of one of the wor
   - ISBN: 9780197905029
   - Pub Date: Feb 15, 2027
   - Price: $115
+  - ![cover](covers/9780197905029.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197905029?lang=en&cc=us)
 
 Memory and Institutional Amnesia in Government explores how governments retain, lose, and reconstruct knowledge across administrations, examining the consequences when critical institutional memory is eroded by political transitions, bureaucratic turnover, and organizational restructuring. This book offers a framework for understanding why governments repeatedly fail to learn from past mistakes and proposes reforms to strengthen knowledge continuity in public institutions.
@@ -2542,6 +2577,7 @@ Memory and Institutional Amnesia in Government explores how governments retain, 
   - ISBN: 9780198928157
   - Pub Date: Jan 30, 2026
   - Price: $115
+  - ![cover](covers/9780198928157.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198928157?lang=en&cc=us)
 
 The Ethics of Relationships challenges traditional moral philosophy's focus on individual autonomy by arguing that ethical life is fundamentally relational. This volume brings together leading scholars to broaden the scope of relational ethics, addressing bonds of care, dependency, trust, and responsibility across personal, professional, and political domains.
@@ -2553,6 +2589,7 @@ The Ethics of Relationships challenges traditional moral philosophy's focus on i
   - ISBN: 9780198971450
   - Pub Date: Mar 6, 2027
   - Price: $165
+  - ![cover](covers/9780198971450.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780198971450?lang=en&cc=us)
 
 Governing the Welfare Commons examines Europe's turn toward social investment as a governing paradigm, analyzing how member states have sought to reconcile economic competitiveness with social protection through investments in education, childcare, and active labor market policies. The book critically assesses both the promise and the limitations of social investment strategies in an era of fiscal austerity and rising inequality.
@@ -2564,6 +2601,7 @@ Governing the Welfare Commons examines Europe's turn toward social investment as
   - ISBN: 9780197527825
   - Pub Date: Apr 15, 2026
   - Price: $34.99
+  - ![cover](covers/9780197527825.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197527825?lang=en&cc=us)
 
 Markets of Pain traces the global history of painkillers from the nineteenth-century opium trade to the modern opioid crisis, revealing how capitalism has shaped the production, distribution, and consumption of analgesics across centuries. Combining economic history with the history of medicine, this book uncovers the enduring entanglement of profit, empire, and the human desire to alleviate suffering.
@@ -2575,6 +2613,7 @@ Markets of Pain traces the global history of painkillers from the nineteenth-cen
   - ISBN: 9780197813805
   - Pub Date: May 4, 2026
   - Price: $29.99
+  - ![cover](covers/9780197813805.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197813805?lang=en&cc=us)
 
 It's Good to Be Lost Once in a While offers a thoughtful meditation on the value of uncertainty, disorientation, and not-knowing in personal growth and intellectual discovery. Drawing on philosophy, psychology, and narrative reflection, the book argues that moments of lostness—far from being failures—are essential to creativity, resilience, and a meaningful life.
@@ -2586,6 +2625,7 @@ It's Good to Be Lost Once in a While offers a thoughtful meditation on the value
   - ISBN: 9780197758021
   - Pub Date: Mar 16, 2026
   - Price: $29.99
+  - ![cover](covers/9780197758021.jpg)
   - [Publisher page](https://global.oup.com/academic/product/-9780197758021?lang=en&cc=us)
 
 The Meaning of It All offers a sweeping philosophical inquiry into the nature of meaning itself, examining how questions of purpose, significance, and value operate at the everyday, cosmic, and ultimate levels of human experience. Engaging with existentialism, philosophy of time, and the problem of death, this book provides a rigorous yet accessible framework for thinking about what makes life meaningful.
