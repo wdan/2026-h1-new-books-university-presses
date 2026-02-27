@@ -6,9 +6,10 @@
 *{box-sizing:border-box;scroll-behavior:smooth}
 body{margin:0;background:var(--bg);font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;color:var(--text)}
 .wrap{max-width:1700px;margin:24px auto;padding:0 16px}
+.topbar{position:sticky;top:0;z-index:1200;background:var(--bg);padding:10px 0 10px;border-bottom:1px solid #e7eaf3}
 h1{margin:0 0 6px;font-size:30px;text-align:left}
-.sub{margin:0 0 14px;color:var(--muted);font-size:14px;text-align:left}
-.topic-nav{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px;justify-content:flex-start}
+.sub{margin:0 0 10px;color:var(--muted);font-size:14px;text-align:left}
+.topic-nav{display:flex;flex-wrap:wrap;gap:8px;margin:0;justify-content:flex-start}
 .topic-nav a{font-size:13px;color:#334155;background:var(--chip);border:1px solid var(--chipline);padding:6px 10px;border-radius:999px;text-decoration:none}
 .topic-nav a:hover{background:#e4eaff}
 .section{margin:20px 0 28px}
@@ -41,6 +42,7 @@ h1{margin:0 0 6px;font-size:30px;text-align:left}
 </style></head><body>
 <button id="toTopBtn" class="to-top" aria-label="Back to top">↑ Top</button>
 <div class="wrap">
+<div class="topbar">
 <h1>2026 H1 New Books - University Presses</h1>
 <nav class="topic-nav">
 <a href="#topic-law">Law</a>
@@ -50,6 +52,7 @@ h1{margin:0 0 6px;font-size:30px;text-align:left}
 <a href="#topic-science-technology">Science &amp; Technology</a>
 <a href="#topic-history">History</a>
 </nav>
+</div>
 <section class="section" id="topic-law">
 <h2>Law</h2>
 <div class="grid">
