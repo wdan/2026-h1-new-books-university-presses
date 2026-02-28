@@ -33,12 +33,24 @@ h1{margin:0 0 6px;font-size:30px;text-align:left}
 .to-top.show{opacity:1;pointer-events:auto;transform:translateY(0)}
 .to-top:hover{background:#1f2f7a}
 @media (max-width:640px){
-  .wrap{padding:0 10px}
-  h1{font-size:24px;line-height:1.25}
-  .section h2{font-size:20px}
-  .topic-nav{position:sticky;top:0;z-index:1000;background:var(--bg);padding:8px 0 10px;margin:0 0 14px}
-  .topic-nav a{font-size:12px;padding:6px 9px}
-  .to-top{right:12px;bottom:12px;padding:11px 13px;font-size:12px}
+  .wrap{margin:6px auto;padding:0 10px}
+  .topbar{padding:6px 0 8px}
+  h1{font-size:22px;line-height:1.2;margin:0 0 4px}
+  .sub{font-size:12px;margin:0 0 6px}
+  .section{margin:14px 0 18px}
+  .section h2{font-size:18px;margin-bottom:8px}
+
+  /* Keep topic chips in one horizontal row for better space usage */
+  .topic-nav{display:flex;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;gap:6px;padding:2px 0 2px;margin:0}
+  .topic-nav a{font-size:12px;padding:5px 8px;white-space:nowrap;flex:0 0 auto}
+
+  .grid{grid-template-columns:1fr;gap:10px}
+  .meta{padding:10px 11px 12px}
+  .title{font-size:15px}
+  .by{font-size:12px}
+  .mini{font-size:11px}
+  .zh{font-size:11.5px;line-height:1.5}
+  .to-top{right:12px;bottom:12px;padding:10px 12px;font-size:12px}
 }
 </style></head><body>
 <button id="toTopBtn" class="to-top" aria-label="Back to top">↑ Top</button>
